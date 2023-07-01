@@ -1,6 +1,5 @@
 # 📌 Description of the Project
 
-## Introduction
 The initial idea for this project originated in the workplace, where there was a need to make the loading effect more aesthetically pleasing. Through internet research, it was discovered that this could be achieved using Dart. This revelation was mind-blowing as it led to the realization that there is a vast array of programming possibilities, many of which are yet to be explored. It is both daunting and exciting to know that even with a substantial amount of knowledge, there is always more to learn.
 
 Inspired by resources and examples such as those from @diegoveloper, an animated loading component was developed. This component adds an elegant touch to applications, improving user experience by making the loading process visually appealing.
